@@ -1,1 +1,2 @@
-
+Dataset available here: https://drive.google.com/drive/folders/10znUUeyFlkPbaerQTNrDhsK_A2qP3XbY?usp=sharing
+Download and unzip inside virusCNN/data/ folder
